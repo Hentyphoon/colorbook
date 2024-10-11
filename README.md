@@ -1,3 +1,1 @@
-# movieposter
-
-Make posters of movies
+# slideshow of interesting topics

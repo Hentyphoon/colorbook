@@ -1,1 +1,0 @@
-# slideshow of interesting topics
